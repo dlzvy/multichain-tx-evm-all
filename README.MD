@@ -11,11 +11,9 @@ EVM :
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/pingpong-bot.git
+git clone https://github.com/dlzvy/multichain-tx-evm-all.git
 ```
 
-```
-cd pingpong-bot
 ```
 
 ### 2. Instal Dependency
@@ -32,8 +30,6 @@ nano .env
 
 ```bash
 PRIVATE_KEYS=["pk1","pk2"]
-BEARER_TOKENS=["token1","token2"]
-
 
 ```
 
@@ -47,6 +43,5 @@ npm run start
 
 ### Contact
 
-github : [Mnuralim](https://github.com/Mnuralim)
-twitter :[@Izzycracker04](https://twitter.com/Izzycracker04)
-telegram : [@fitriay19](https://t.me/fitriay19)
+github : [dlzvy](https://github.com/dlzvy)
+telegram : [@dlzvy](https://t.me/dlzvy)

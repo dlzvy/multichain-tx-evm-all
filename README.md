@@ -14,6 +14,9 @@ EVM :
 git clone https://github.com/dlzvy/multichain-tx-evm-all.git
 ```
 
+```
+cd multichain-tx-evm-all
+```
 
 ### 2. Instal Dependency
 
@@ -29,7 +32,6 @@ nano .env
 
 ```bash
 PRIVATE_KEYS=["pk1"]
-
 
 
 ```

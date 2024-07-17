@@ -5,6 +5,14 @@ EVM :
 ```bash
 0xCB797068B68323a9d046591009f5a715d0f17031
 ```
+node.js :
+
+```bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
+source ~/.bashrc
+nvm install 'lts/*'
+nvm use 'lts/*'
+```
 
 ## Steps
 

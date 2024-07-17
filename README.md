@@ -39,7 +39,7 @@ nano .env
 ```
 
 ```bash
-PRIVATE_KEYS=["pk1"]
+PRIVATE_KEYS="pk1"
 
 
 ```

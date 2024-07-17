@@ -18,7 +18,6 @@ git clone https://github.com/dlzvy/multichain-tx-evm-all.git
 
 ### 2. Instal Dependency
 
-```bash
 npm install
 ```
 

@@ -43,8 +43,13 @@ PRIVATE_KEYS=["pk1"]
 
 
 ```
+### 4. Isi Address
 
-### 4. Run script
+```bash
+nano address.ts
+```
+
+### 5. Run script
 
 ```bash
 npm run start

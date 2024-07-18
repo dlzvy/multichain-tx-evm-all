@@ -41,7 +41,6 @@ nano .env
 ```bash
 PRIVATE_KEY="pk1"
 
-
 ```
 ### 4. Isi Address
 
